@@ -5,6 +5,10 @@
 * https://blog.adafruit.com/2018/08/14/a-nintendo-entertainment-system-emulator-for-the-esp32/  
 * https://github.com/MittisBootloop/esp32_nesemu_wemosmini  
 * https://github.com/espressif/esp32-nesemu  
+* https://facelesstech.wordpress.com/2019/04/07/retrozero-retropie-handheld/  
+* https://github.com/facelessloser/retro_zero_handheld  
+* https://trmm.net/Gamebadge  
+* https://github.com/osresearch/gamebadge  
 
 ## JoyStick 串口    
 * opentk  
