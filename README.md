@@ -9,6 +9,7 @@
 * https://github.com/facelessloser/retro_zero_handheld  
 * https://trmm.net/Gamebadge  
 * https://github.com/osresearch/gamebadge  
+* GBN, 2.8寸ili9341裸屏，18针，spi屏, TP4056     
 * https://blog.tindie.com/2018/09/game-boy-null-rasbperry-pi-zero-w-kit/  
 * https://www.tindie.com/products/Ampersand/null-2-kit/  
 
