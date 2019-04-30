@@ -9,6 +9,8 @@
 * https://github.com/facelessloser/retro_zero_handheld  
 * https://trmm.net/Gamebadge  
 * https://github.com/osresearch/gamebadge  
+* https://blog.tindie.com/2018/09/game-boy-null-rasbperry-pi-zero-w-kit/  
+* https://www.tindie.com/products/Ampersand/null-2-kit/  
 
 ## JoyStick 串口    
 * opentk  
