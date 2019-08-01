@@ -14,6 +14,8 @@
 * GBN, 2.8寸ili9341裸屏，18针，spi屏, TP4056     
 * https://blog.tindie.com/2018/09/game-boy-null-rasbperry-pi-zero-w-kit/  
 * https://www.tindie.com/products/Ampersand/null-2-kit/  
+* BeagleBone Black设计:迟来4年的掌机实现（FC、世嘉、GBA）  
+* http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=1064041&page=1  
 
 ## JoyStick 串口    
 * opentk  
