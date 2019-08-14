@@ -18,6 +18,12 @@
 * http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=1064041&page=1  
 * gamegirl  
 * https://github.com/davidperrenoud/Gamegirl  
+* (search weibo 按键板)  
+* 1.做一台属于自己的GameBoy  
+* https://www.jianshu.com/p/6018884af6cf  
+* retronano  
+* (dead link) http://www.wdmomo.cf:81/default/?retronano  
+* http://www.wdmomo.fun:81/default/?retronano  
 
 ## JoyStick 串口    
 * opentk  
