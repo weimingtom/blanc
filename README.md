@@ -16,6 +16,8 @@
 * https://www.tindie.com/products/Ampersand/null-2-kit/  
 * BeagleBone Black设计:迟来4年的掌机实现（FC、世嘉、GBA）  
 * http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=1064041&page=1  
+* gamegirl  
+* https://github.com/davidperrenoud/Gamegirl  
 
 ## JoyStick 串口    
 * opentk  
