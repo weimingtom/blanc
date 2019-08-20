@@ -27,6 +27,8 @@
 * game boy zero  
 * https://github.com/32teeth/Gameboy-Zero-Kickstarter  
 * https://www.kickstarter.com/projects/sparky/gameboy-zero-handheld-edition/posts  
+* Games-Console (with atmega328p)  
+* https://github.com/maxobrien/Games-Console  
 
 ## JoyStick 串口    
 * opentk  
