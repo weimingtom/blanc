@@ -24,6 +24,9 @@
 * retronano  
 * (dead link) http://www.wdmomo.cf:81/default/?retronano  
 * http://www.wdmomo.fun:81/default/?retronano  
+* game boy zero  
+* https://github.com/32teeth/Gameboy-Zero-Kickstarter  
+* https://www.kickstarter.com/projects/sparky/gameboy-zero-handheld-edition/posts  
 
 ## JoyStick 串口    
 * opentk  
