@@ -31,6 +31,11 @@
 * https://github.com/maxobrien/Games-Console  
 * Franzboy  
 * https://github.com/Franzininho/FranzBoy  
+* NES_ESP32  
+* https://github.com/ccadic/NES_ESP32  
+* iotuz-esp32-hardware  
+* https://github.com/CCHS-Melbourne/iotuz-esp32-hardware  
+
 
 ## JoyStick 串口    
 * opentk  
