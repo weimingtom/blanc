@@ -40,6 +40,11 @@
 * bittboy  
 * https://www.bittboy.com  
 * https://github.com/bittboy/buildroot  
+* ESPlay Micro  
+* https://hackaday.io/project/166707-esplay-micro  
+* Odroid Go Launcher  
+* https://github.com/retro-esp32/RetroESP32  
+
 
 ## JoyStick 串口    
 * opentk  
