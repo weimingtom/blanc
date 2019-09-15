@@ -44,6 +44,7 @@
 * https://hackaday.io/project/166707-esplay-micro  
 * Odroid Go Launcher  
 * https://github.com/retro-esp32/RetroESP32  
+* https://github.com/pebri86/esplay-retro-emulation  
 * Gaboze-Pocaio  
 * https://github.com/Gaboze-Pocaio/Round-1  
 * https://github.com/Gaboze-Pocaio/Round-2  
