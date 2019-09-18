@@ -59,6 +59,10 @@
 * (baidupan) 1.3_Inches_RetroPie_Zero.zip  
 * 如何使用ESP32和ATtiny861制作NES模拟器游戏控制台  
 * http://www.elecfans.com/d/1043007.html  
+* mk_arcade_joystick_rpi  
+* https://github.com/recalbox/mk_arcade_joystick_rpi  
+* rpi-fbcp  
+* https://github.com/tasanakorn/rpi-fbcp  
 
 ## JoyStick 串口    
 * opentk  
