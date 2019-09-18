@@ -48,6 +48,15 @@
 * Gaboze-Pocaio  
 * https://github.com/Gaboze-Pocaio/Round-1  
 * https://github.com/Gaboze-Pocaio/Round-2  
+* 用 ESP32 开发板 DIY NES 掌机  
+* https://micropython.nxez.com/2019/06/05/esp32-handheld-game-console.html  
+* https://www.quwj.com/2019/06/05/esp32-handheld-game-console.html  
+* RetroPie Zero  
+* https://gaminggadgets.de/retropie-zero-diese-diy-konsole-ist-so-gross-wie-ein-schluesselanhaenger  
+* https://www.thingiverse.com/thing:3328994  
+* http://www.elecfans.com/d/1046670.html  
+* (baidupan) RetroPie_Zero.docx  
+* (baidupan) 1.3_Inches_RetroPie_Zero.zip  
 
 ## JoyStick 串口    
 * opentk  
