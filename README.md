@@ -57,6 +57,8 @@
 * http://www.elecfans.com/d/1046670.html  
 * (baidupan) RetroPie_Zero.docx  
 * (baidupan) 1.3_Inches_RetroPie_Zero.zip  
+* 如何使用ESP32和ATtiny861制作NES模拟器游戏控制台  
+* http://www.elecfans.com/d/1043007.html  
 
 ## JoyStick 串口    
 * opentk  
