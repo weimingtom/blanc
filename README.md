@@ -63,6 +63,8 @@
 * https://github.com/recalbox/mk_arcade_joystick_rpi  
 * rpi-fbcp  
 * https://github.com/tasanakorn/rpi-fbcp  
+* PocketSprite  
+* https://github.com/PocketSprite  
 
 ## JoyStick 串口    
 * opentk  
