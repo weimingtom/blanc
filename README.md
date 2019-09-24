@@ -65,6 +65,12 @@
 * https://github.com/tasanakorn/rpi-fbcp  
 * PocketSprite  
 * https://github.com/PocketSprite  
+* https://www.espressif.com/zh-hans/node/3019  
+* WiFiBoy  
+* https://www.wifiboy.org  
+* https://wifiboy.club  
+* https://www.espressif.com/zh-hans/news/WiFiBoy32  
+
 
 ## JoyStick 串口    
 * opentk  
