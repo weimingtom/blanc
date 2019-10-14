@@ -70,6 +70,8 @@
 * https://www.wifiboy.org  
 * https://wifiboy.club  
 * https://www.espressif.com/zh-hans/news/WiFiBoy32  
+* gameshell  
+* https://steward-fu.github.io/website/handheld/gameshell/uart.htm  
 
 
 ## JoyStick 串口    
