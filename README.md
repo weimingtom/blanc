@@ -72,7 +72,9 @@
 * https://www.espressif.com/zh-hans/news/WiFiBoy32  
 * gameshell  
 * https://steward-fu.github.io/website/handheld/gameshell/uart.htm  
-
+* arduboy by facelssloser  
+* https://facelesstech.wordpress.com/2019/10/12/arduboy-with-removable-flash-cart/  
+* https://github.com/facelessloser/arduboy  
 
 ## JoyStick 串口    
 * opentk  
