@@ -78,6 +78,9 @@
 * espboy  
 * https://github.com/cheungbx/esp8266_arduboy2  
 * https://community.arduboy.com/t/espboy-edu-esp8266-based-arduboy-like-gadget-with-wifi/7501/25  
+* https://hackaday.io/project/164830-espboy-games-iot-stem-for-education-fun  
+* https://www.hackster.io/news/espboy-is-a-12-open-source-and-hacker-friendly-retro-game-console-36a934b29d81  
+* https://easyeda.com/roman.sokolov/espboy-rev2-0a  
 * lge  
 * https://github.com/corax89/game_engine_for_esp8266_with_compiler  
 
