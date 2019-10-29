@@ -85,6 +85,9 @@
 * https://github.com/corax89/game_engine_for_esp8266_with_compiler  
 * ESPlay Micro  
 * https://hackaday.io/project/166707-esplay-micro  
+* https://www.makerfabs.com/esplay-micro.html  
+* https://github.com/pebri86/esplay-retro-emulation  
+* https://github.com/pebri86/esplay_micro_hardware  
 
 ## JoyStick 串口    
 * opentk  
