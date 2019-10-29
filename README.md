@@ -83,6 +83,8 @@
 * https://easyeda.com/roman.sokolov/espboy-rev2-0a  
 * lge  
 * https://github.com/corax89/game_engine_for_esp8266_with_compiler  
+* ESPlay Micro  
+* https://hackaday.io/project/166707-esplay-micro  
 
 ## JoyStick 串口    
 * opentk  
