@@ -88,6 +88,9 @@
 * https://www.makerfabs.com/esplay-micro.html  
 * https://github.com/pebri86/esplay-retro-emulation  
 * https://github.com/pebri86/esplay_micro_hardware  
+* RetroESP32  
+* https://gaminggadgets.de/retro-esp32-aus-eurem-gameboy-pocket-wird-ein-retro-handheld  
+* https://github.com/retro-esp32/RetroESP32  
 
 ## JoyStick 串口    
 * opentk  
