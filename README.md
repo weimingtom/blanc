@@ -91,6 +91,8 @@
 * RetroESP32  
 * https://gaminggadgets.de/retro-esp32-aus-eurem-gameboy-pocket-wird-ein-retro-handheld  
 * https://github.com/retro-esp32/RetroESP32  
+* Handheld-Color-Console  
+* https://github.com/vilaca/Handheld-Color-Console  
 
 ## JoyStick 串口    
 * opentk  
