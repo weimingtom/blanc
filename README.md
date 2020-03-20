@@ -101,3 +101,9 @@
 * opentk  
 * https://github.com/mwphh/SerialAssistant  
 * https://github.com/charasyn/pc2snes  
+
+## emulator 
+* http://www.openedv.com/forum.php?mod=viewthread&tid=67599  
+12种游戏机模拟器源代码，大家开动脑筋尽情移植到STM32吧！！！  
+
+
